@@ -14,8 +14,9 @@ Transformar y visualizar los datos que permitan a los propietarios de la tienda 
    - Se determina que los clientes de 39 años son los que proporcinaron menor ingreso a la tienda. 
      
 2. Rendimiento por Categoría de producto 
-   - Se identifico que la categoría del producto identificado como Ropa fue la más vendida durante el año, seguida de la de electronica, destacando el mes de Febrero se realizarón un total de 36 transacción siendo estas divididas de forma equitativa entre los 3 tipos de Categorías de productos (Belleza, Ropa y Electrónica).
+   - Se identifico que la categoría del producto identificado como Ropa fue la más vendida durante el año, seguida de la de electrónica, destacando el mes de Febrero en donde se realizarón un total de 36 transacción siendo estas divididas de forma equitativa entre los 3 tipos de Categorías de productos (Belleza, Ropa y Electrónica).
    - Se determina que los meses donde mayor número de transacciones se tuvieron dentro de la tienda fueron: Diciembre con un total de 55 y Abril y Agosto con 50 respectivamento, por lo que son meses en los que se recominda tener un mayor stock en productos de Electrónica y Ropa debído a que fueron las categorías que más se vendieron. 
 
 2. Total de Productos vendidos 
-  - La tienda vendio 2,514 productos en el años; de las 1,000 transacciones 342 veces compraron productos de electronica, 351 veces productos de ropa y 307 veces productos de belleza.
+  - La tienda vendio 2,514 productos en el años; de las 1,000 transacciones 342 veces compraron productos de electrónica, 351 veces productos de ropa y 307 veces productos de belleza.
+
